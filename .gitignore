@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# IDE files
+.idea/
+.vscode/
+
+# PyInstaller
+*.spec
+/build/
+/dist/
+__pycache__/ 

@@ -1,0 +1,8 @@
+{
+    "delimiter": "|",
+    "header_row": "0",
+    "skip_rows": "0",
+    "quote_char": "\"",
+    "open_after_export": true,
+    "language": "zh"
+}
