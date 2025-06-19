@@ -2,7 +2,8 @@
 
 一个轻量、强大且易于使用的桌面应用，旨在帮助您快速清理和格式化来自各种来源的表格数据，并将其导出为干净的 Excel 或 CSV 文件。
 
-![App Screenshot](https://i.imgur.com/your_screenshot.png)  <!-- 之后可以替换成真实的截图 -->
+![App Screenshot]![Uploading 81a90efd3edeaba0537eedb7c56bd02.png…]()
+  <!-- 之后可以替换成真实的截图 -->
 
 ---
 
