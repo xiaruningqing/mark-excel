@@ -1,0 +1,6 @@
+customtkinter
+pandas
+openpyxl
+Pillow
+tkinterdnd2-universal
+chardet 
